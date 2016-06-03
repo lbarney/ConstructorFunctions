@@ -1,4 +1,4 @@
-//Contructer Functions
+//Constructer Functions
 
 //1. Create an array called bands with 3 objects in it. Each of them describes a music band. Each object should have a name, genre, numberOfPerformers, and numberOfGroupies.
 var bands = [
